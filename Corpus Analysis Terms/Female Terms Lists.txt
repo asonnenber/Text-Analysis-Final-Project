@@ -1,0 +1,100 @@
+Female Names (Mortals)
+
+penelope*
+nausica*
+aret*
+anticlea*
+nausika*
+antikleia
+autono*
+
+
+
+Female Terms (Mortals)
+
+feminine*
+woman*
+women*
+wife*
+wives*
+female*
+girl*
+queen*
+mother*
+daughter*
+lady*
+ladies*
+madam*
+"noble woman*"
+"gentlewom*"
+
+
+
+Servant Female Names
+
+melantho*
+eurycleia*
+euryclea
+eurykleia
+eurynome*
+eurynomê
+eurynomé
+
+
+
+Female Servant Terms
+
+maid*
+handmaid*
+housekeeper*
+nurse*
+nanny
+attendant women*
+attendant*
+slave*
+servant*
+female slave*
+female servant*
+maidservant*
+housemaid*
+
+
+
+Female Derogatory (Mortals)
+
+slut*
+whore*
+bitch*
+hussy*
+harlot*
+
+
+
+Upper-Class Female Descriptors
+
+"queen penelope"~5
+"wise penelope"
+
+
+
+Deities (stopwords)
+
+Zeus
+Apollo
+Hera
+Athena
+Hermes
+Calypso
+Hecate
+Poseidon
+Amphitrite 
+Aphrodite
+Artemis
+Hephaestus
+Circe
+Heracles
+Aeolus
+Helios
+Hades
+Ino
+Helen
